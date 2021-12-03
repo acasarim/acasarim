@@ -1,4 +1,4 @@
-### Prazer, Alexandre Casarim 👋
+### Prazer, Alexandre Casarin 👋
 
 - 📚 Estudante de back-end
 - 📈 Python / Java / Sql
