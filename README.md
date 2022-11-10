@@ -1,6 +1,6 @@
 ### Prazer, Alexandre Casarin 👋
 
-- 📚 Estudante de back-end
-- 📈 Python / Java / Sql
-- 🧠 Interesse em entrar para área de dados
+- 📚 Estudante de Matemática
+- 📈 Python / Java / Sql / Html / Css
+- 🧠 Contribuir, fazer a diferença
 - ⏳ Buscando oportunidade no mercado
