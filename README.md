@@ -1,6 +1,6 @@
 ### Prazer, Alexandre Casarin 👋
 
-- 📚 Estudante de Matemática
+- 📚 math student
 - 📈 Python / Java / Sql / Html / Css
-- 🧠 Contribuir, fazer a diferença
-- ⏳ Buscando oportunidade no mercado
+- 🧠 Contribute, make a difference
+- ⏳ Looking for opportunity
